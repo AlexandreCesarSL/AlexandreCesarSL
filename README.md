@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexandreCesarSL
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning Javascript, CSS and HTML
+- 💞️ I’m looking to collaborate on with simple projects that can add value to my historic
+- 📫 How to reach me: linkedin.com/in/alexandrecesarslima
